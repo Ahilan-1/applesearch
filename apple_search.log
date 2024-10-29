@@ -1,0 +1,99 @@
+2024-10-29 16:45:41,117 - INFO - 127.0.0.1 - - [29/Oct/2024 16:45:41] "GET /suggest?q=Apple HTTP/1.1" 200 -
+2024-10-29 16:45:41,339 - INFO - 127.0.0.1 - - [29/Oct/2024 16:45:41] "GET /suggest?q=Apple%20ip HTTP/1.1" 200 -
+2024-10-29 16:45:42,565 - INFO - 127.0.0.1 - - [29/Oct/2024 16:45:42] "GET /suggest?q=Apple%20iphone HTTP/1.1" 200 -
+2024-10-29 16:45:45,518 - INFO - 127.0.0.1 - - [29/Oct/2024 16:45:45] "GET /search?q=apple+iphone+15+pro HTTP/1.1" 200 -
+2024-10-29 16:45:56,080 - INFO - 127.0.0.1 - - [29/Oct/2024 16:45:56] "GET /search?q=Apple HTTP/1.1" 200 -
+2024-10-29 16:45:56,226 - INFO - 127.0.0.1 - - [29/Oct/2024 16:45:56] "GET /suggest?q=Apple HTTP/1.1" 200 -
+2024-10-29 16:46:04,582 - INFO - 127.0.0.1 - - [29/Oct/2024 16:46:04] "GET /search?q= HTTP/1.1" 200 -
+2024-10-29 16:46:07,652 - INFO - 127.0.0.1 - - [29/Oct/2024 16:46:07] "GET /suggest?q=Be HTTP/1.1" 200 -
+2024-10-29 16:46:08,829 - INFO - 127.0.0.1 - - [29/Oct/2024 16:46:08] "GET /suggest?q=Best%20gooo HTTP/1.1" 200 -
+2024-10-29 16:46:19,149 - INFO - 127.0.0.1 - - [29/Oct/2024 16:46:19] "GET /search?q=best+good+night+wishes HTTP/1.1" 200 -
+2024-10-29 16:46:25,439 - INFO - 127.0.0.1 - - [29/Oct/2024 16:46:25] "GET /suggest?q=best%20message%20for%20her HTTP/1.1" 200 -
+2024-10-29 16:46:25,829 - INFO - 127.0.0.1 - - [29/Oct/2024 16:46:25] "GET /search?q=best+message+for+her HTTP/1.1" 200 -
+2024-10-29 16:46:36,299 - INFO - 127.0.0.1 - - [29/Oct/2024 16:46:36] "GET /suggest?q=Best%20message HTTP/1.1" 200 -
+2024-10-29 16:46:38,792 - INFO - 127.0.0.1 - - [29/Oct/2024 16:46:38] "GET /suggest?q=Best%20message%20to%20send HTTP/1.1" 200 -
+2024-10-29 16:46:39,204 - INFO - 127.0.0.1 - - [29/Oct/2024 16:46:39] "GET /suggest?q=Best%20message%20to%20send HTTP/1.1" 200 -
+2024-10-29 16:46:45,112 - INFO - 127.0.0.1 - - [29/Oct/2024 16:46:45] "GET /search?q=best+message+to+send+to+your+crush HTTP/1.1" 200 -
+2024-10-29 16:49:25,073 - INFO -  * Detected change in 'C:\\Users\\VIJAY GANESH S\\Downloads\\ProjectL\\dotnet-console-games-main\\dotnet-console-games-main\\Projects\\Fiberr\\app.py', reloading
+2024-10-29 16:49:25,184 - INFO -  * Restarting with stat
+2024-10-29 16:50:52,476 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-29 16:50:52,476 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-29 16:50:52,481 - INFO -  * Restarting with stat
+2024-10-29 16:50:53,128 - WARNING -  * Debugger is active!
+2024-10-29 16:50:53,143 - INFO -  * Debugger PIN: 231-956-652
+2024-10-29 16:50:58,147 - INFO - 127.0.0.1 - - [29/Oct/2024 16:50:58] "GET / HTTP/1.1" 200 -
+2024-10-29 16:51:00,799 - DEBUG - Starting new HTTPS connection (1): www.google.com:443
+2024-10-29 16:51:00,951 - DEBUG - https://www.google.com:443 "GET /search?q=Apple&start=0&num=10&hl=en HTTP/1.1" 200 None
+2024-10-29 16:51:01,342 - DEBUG - Starting new HTTPS connection (1): suggestqueries.google.com:443
+2024-10-29 16:51:01,510 - DEBUG - https://suggestqueries.google.com:443 "GET /complete/search?client=firefox&q=Apple HTTP/1.1" 200 None
+2024-10-29 16:51:01,511 - INFO - 127.0.0.1 - - [29/Oct/2024 16:51:01] "GET /search?q=Apple HTTP/1.1" 200 -
+2024-10-29 16:51:01,512 - INFO - 127.0.0.1 - - [29/Oct/2024 16:51:01] "GET /suggest?q=Apple HTTP/1.1" 200 -
+2024-10-29 16:51:07,410 - DEBUG - https://suggestqueries.google.com:443 "GET /complete/search?client=firefox&q=Apple HTTP/1.1" 200 None
+2024-10-29 16:51:07,413 - INFO - 127.0.0.1 - - [29/Oct/2024 16:51:07] "GET /suggest?q=Apple HTTP/1.1" 200 -
+2024-10-29 16:51:09,266 - DEBUG - https://suggestqueries.google.com:443 "GET /complete/search?client=firefox&q=Apple+iphone+1 HTTP/1.1" 200 None
+2024-10-29 16:51:09,267 - INFO - 127.0.0.1 - - [29/Oct/2024 16:51:09] "GET /suggest?q=Apple%20iphone%201 HTTP/1.1" 200 -
+2024-10-29 16:51:09,742 - DEBUG - https://www.google.com:443 "GET /search?q=Apple+iphone+16&start=0&num=10&hl=en HTTP/1.1" 200 None
+2024-10-29 16:51:09,863 - DEBUG - https://suggestqueries.google.com:443 "GET /complete/search?client=firefox&q=Apple+iphone+16 HTTP/1.1" 200 None
+2024-10-29 16:51:09,864 - INFO - 127.0.0.1 - - [29/Oct/2024 16:51:09] "GET /suggest?q=Apple%20iphone%2016 HTTP/1.1" 200 -
+2024-10-29 16:51:10,300 - INFO - 127.0.0.1 - - [29/Oct/2024 16:51:10] "GET /search?q=Apple+iphone+16 HTTP/1.1" 200 -
+2024-10-29 16:51:16,424 - DEBUG - https://suggestqueries.google.com:443 "GET /complete/search?client=firefox&q=Apple HTTP/1.1" 200 None
+2024-10-29 16:51:16,426 - INFO - 127.0.0.1 - - [29/Oct/2024 16:51:16] "GET /suggest?q=Apple HTTP/1.1" 200 -
+2024-10-29 16:51:21,053 - DEBUG - https://www.google.com:443 "GET /search?q=apple+iphone+16+pro+max&start=0&num=10&hl=en HTTP/1.1" 200 None
+2024-10-29 16:51:21,610 - INFO - 127.0.0.1 - - [29/Oct/2024 16:51:21] "GET /search?q=apple+iphone+16+pro+max HTTP/1.1" 200 -
+2024-10-29 16:51:28,892 - DEBUG - https://suggestqueries.google.com:443 "GET /complete/search?client=firefox&q=Samsung HTTP/1.1" 200 None
+2024-10-29 16:51:28,893 - INFO - 127.0.0.1 - - [29/Oct/2024 16:51:28] "GET /suggest?q=Samsung HTTP/1.1" 200 -
+2024-10-29 16:51:29,170 - DEBUG - https://www.google.com:443 "GET /search?q=Samsung&start=0&num=10&hl=en HTTP/1.1" 200 None
+2024-10-29 16:51:29,826 - INFO - 127.0.0.1 - - [29/Oct/2024 16:51:29] "GET /search?q=Samsung HTTP/1.1" 200 -
+2024-10-29 16:53:48,347 - INFO - 127.0.0.1 - - [29/Oct/2024 16:53:48] "GET / HTTP/1.1" 200 -
+2024-10-29 16:54:06,357 - INFO - 127.0.0.1 - - [29/Oct/2024 16:54:06] "GET / HTTP/1.1" 200 -
+2024-10-29 16:55:14,686 - INFO - 127.0.0.1 - - [29/Oct/2024 16:55:14] "GET / HTTP/1.1" 200 -
+2024-10-29 16:55:56,547 - INFO - 127.0.0.1 - - [29/Oct/2024 16:55:56] "GET / HTTP/1.1" 200 -
+2024-10-29 16:56:04,487 - DEBUG - Resetting dropped connection: suggestqueries.google.com
+2024-10-29 16:56:04,598 - DEBUG - https://suggestqueries.google.com:443 "GET /complete/search?client=firefox&q=Hot+t HTTP/1.1" 200 None
+2024-10-29 16:56:04,599 - INFO - 127.0.0.1 - - [29/Oct/2024 16:56:04] "GET /suggest?q=Hot%20t HTTP/1.1" 200 -
+2024-10-29 16:56:06,039 - DEBUG - https://suggestqueries.google.com:443 "GET /complete/search?client=firefox&q=How+to+t HTTP/1.1" 200 None
+2024-10-29 16:56:06,041 - INFO - 127.0.0.1 - - [29/Oct/2024 16:56:06] "GET /suggest?q=How%20to%20t HTTP/1.1" 200 -
+2024-10-29 16:56:06,164 - DEBUG - https://suggestqueries.google.com:443 "GET /complete/search?client=firefox&q=How+to HTTP/1.1" 200 None
+2024-10-29 16:56:06,164 - INFO - 127.0.0.1 - - [29/Oct/2024 16:56:06] "GET /suggest?q=How%20to HTTP/1.1" 200 -
+2024-10-29 16:56:07,286 - DEBUG - https://suggestqueries.google.com:443 "GET /complete/search?client=firefox&q=How+to+toch+th HTTP/1.1" 200 None
+2024-10-29 16:56:07,286 - INFO - 127.0.0.1 - - [29/Oct/2024 16:56:07] "GET /suggest?q=How%20to%20toch%20th HTTP/1.1" 200 -
+2024-10-29 16:56:08,486 - DEBUG - https://suggestqueries.google.com:443 "GET /complete/search?client=firefox&q=How+to+to HTTP/1.1" 200 None
+2024-10-29 16:56:08,486 - INFO - 127.0.0.1 - - [29/Oct/2024 16:56:08] "GET /suggest?q=How%20to%20to HTTP/1.1" 200 -
+2024-10-29 16:56:09,871 - DEBUG - https://suggestqueries.google.com:443 "GET /complete/search?client=firefox&q=How+to+touch HTTP/1.1" 200 None
+2024-10-29 16:56:09,871 - INFO - 127.0.0.1 - - [29/Oct/2024 16:56:09] "GET /suggest?q=How%20to%20touch HTTP/1.1" 200 -
+2024-10-29 16:56:12,480 - DEBUG - https://suggestqueries.google.com:443 "GET /complete/search?client=firefox&q=How+to+touch+the+grass HTTP/1.1" 200 None
+2024-10-29 16:56:12,481 - INFO - 127.0.0.1 - - [29/Oct/2024 16:56:12] "GET /suggest?q=How%20to%20touch%20the%20grass HTTP/1.1" 200 -
+2024-10-29 16:56:15,884 - DEBUG - Resetting dropped connection: www.google.com
+2024-10-29 16:56:16,069 - DEBUG - https://www.google.com:443 "GET /search?q=how+to+touch+the+grass&start=0&num=10&hl=en HTTP/1.1" 200 None
+2024-10-29 16:56:16,416 - INFO - 127.0.0.1 - - [29/Oct/2024 16:56:16] "GET /search?q=how+to+touch+the+grass HTTP/1.1" 200 -
+2024-10-29 16:56:28,402 - DEBUG - https://suggestqueries.google.com:443 "GET /complete/search?client=firefox&q=Why+is+sky HTTP/1.1" 200 None
+2024-10-29 16:56:28,404 - INFO - 127.0.0.1 - - [29/Oct/2024 16:56:28] "GET /suggest?q=Why%20is%20sky HTTP/1.1" 200 -
+2024-10-29 16:56:29,138 - DEBUG - Starting new HTTPS connection (2): suggestqueries.google.com:443
+2024-10-29 16:56:29,179 - DEBUG - https://suggestqueries.google.com:443 "GET /complete/search?client=firefox&q=Why+is+sky+blue HTTP/1.1" 200 None
+2024-10-29 16:56:29,180 - INFO - 127.0.0.1 - - [29/Oct/2024 16:56:29] "GET /suggest?q=Why%20is%20sky%20blue HTTP/1.1" 200 -
+2024-10-29 16:56:29,258 - DEBUG - https://www.google.com:443 "GET /search?q=Why+is+sky+blue&start=0&num=10&hl=en HTTP/1.1" 200 None
+2024-10-29 16:56:29,269 - DEBUG - https://suggestqueries.google.com:443 "GET /complete/search?client=firefox&q=Why+is+sky+bl HTTP/1.1" 200 None
+2024-10-29 16:56:29,270 - INFO - 127.0.0.1 - - [29/Oct/2024 16:56:29] "GET /suggest?q=Why%20is%20sky%20bl HTTP/1.1" 200 -
+2024-10-29 16:56:29,596 - INFO - 127.0.0.1 - - [29/Oct/2024 16:56:29] "GET /search?q=Why+is+sky+blue HTTP/1.1" 200 -
+2024-10-29 16:58:07,423 - INFO - 127.0.0.1 - - [29/Oct/2024 16:58:07] "GET / HTTP/1.1" 200 -
+2024-10-29 16:58:13,478 - DEBUG - https://suggestqueries.google.com:443 "GET /complete/search?client=firefox&q=How+to HTTP/1.1" 200 None
+2024-10-29 16:58:13,479 - INFO - 127.0.0.1 - - [29/Oct/2024 16:58:13] "GET /suggest?q=How%20to HTTP/1.1" 200 -
+2024-10-29 16:58:14,432 - DEBUG - https://suggestqueries.google.com:443 "GET /complete/search?client=firefox&q=How+to+toch+the+gr HTTP/1.1" 200 None
+2024-10-29 16:58:14,432 - INFO - 127.0.0.1 - - [29/Oct/2024 16:58:14] "GET /suggest?q=How%20to%20toch%20the%20gr HTTP/1.1" 200 -
+2024-10-29 16:58:17,871 - DEBUG - https://www.google.com:443 "GET /search?q=how+to+touch+the+ground+without+bending+knees&start=0&num=10&hl=en HTTP/1.1" 200 None
+2024-10-29 16:58:18,371 - INFO - 127.0.0.1 - - [29/Oct/2024 16:58:18] "GET /search?q=how+to+touch+the+ground+without+bending+knees HTTP/1.1" 200 -
+2024-10-29 16:58:22,766 - DEBUG - https://suggestqueries.google.com:443 "GET /complete/search?client=firefox&q=how+to HTTP/1.1" 200 None
+2024-10-29 16:58:22,767 - INFO - 127.0.0.1 - - [29/Oct/2024 16:58:22] "GET /suggest?q=how%20to HTTP/1.1" 200 -
+2024-10-29 16:58:25,578 - DEBUG - https://www.google.com:443 "GET /search?q=how+to+calculate+percentage&start=0&num=10&hl=en HTTP/1.1" 200 None
+2024-10-29 16:58:25,890 - INFO - 127.0.0.1 - - [29/Oct/2024 16:58:25] "GET /search?q=how+to+calculate+percentage HTTP/1.1" 200 -
+2024-10-29 16:58:52,023 - DEBUG - https://suggestqueries.google.com:443 "GET /complete/search?client=firefox&q=How HTTP/1.1" 200 None
+2024-10-29 16:58:52,023 - INFO - 127.0.0.1 - - [29/Oct/2024 16:58:52] "GET /suggest?q=How HTTP/1.1" 200 -
+2024-10-29 16:58:55,592 - DEBUG - https://www.google.com:443 "GET /search?q=how+to+take+screenshot+in+laptop&start=0&num=10&hl=en HTTP/1.1" 200 None
+2024-10-29 16:58:55,963 - INFO - 127.0.0.1 - - [29/Oct/2024 16:58:55] "GET /search?q=how+to+take+screenshot+in+laptop HTTP/1.1" 200 -
+2024-10-29 16:59:02,213 - INFO - 127.0.0.1 - - [29/Oct/2024 16:59:02] "GET / HTTP/1.1" 200 -
+2024-10-29 16:59:07,559 - INFO - 127.0.0.1 - - [29/Oct/2024 16:59:07] "GET / HTTP/1.1" 200 -
+2024-10-29 17:07:10,385 - INFO -  * Detected change in 'C:\\Users\\VIJAY GANESH S\\Downloads\\ProjectL\\dotnet-console-games-main\\dotnet-console-games-main\\Projects\\Fiberr\\app.py', reloading
+2024-10-29 17:07:10,581 - INFO -  * Restarting with stat
+2024-10-29 17:07:11,510 - WARNING -  * Debugger is active!
+2024-10-29 17:07:11,521 - INFO -  * Debugger PIN: 231-956-652
